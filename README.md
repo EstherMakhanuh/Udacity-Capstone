@@ -59,7 +59,7 @@ Here are the schemas for each file:
 
 ## Results
 
-The main findings of this project can be found in my medium post about the project [here](https://johnabel1997.medium.com/starbucks-capstone-challenge-350575a03f9a).
+The main findings of this project can be found in my medium post about the project [here](https://medium.com/@makhanuhesther/starbucks-udacity-capstone-project-b8336f682af1).
 
 Essentally i used Logistic Regression, Support Vector Machines, Linear Discriminant Analysis and a AdaBoost Classifier to predict whether an offer would be successful.
 
